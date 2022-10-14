@@ -10,7 +10,7 @@ My name is Giancarlo Luz, and I am a <img src="assets/server.gif" alt="Server an
 
 ## About me
 
-I am a Brazilian developer working with backend services, mainly APIs and simple tools and websites. Most of my repositories follows the **`start` &rarr; `end`** template, where I start a project with a clear end in sight, and I try to make it as simple as possible.
+I am a Brazilian developer working with backend services, mainly APIs, simple tools and websites. Most of my repositories follows the **`start` &rarr; `end`** template, where I start a project with a clear end in sight, and I try to make it as simple as possible.
 
 Most of my work experience is with the [Azure](https://azure.microsoft.com/) cloud provider, with a bit of [DigitalOcean](https://www.digitalocean.com/) and [AWS](https://aws.amazon.com/) seasoning.
 
