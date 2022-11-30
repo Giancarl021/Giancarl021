@@ -6,11 +6,11 @@
 
 ## Hello
 
-My name is Giancarlo Luz, and I am a <img src="assets/server.gif" alt="Server animation" width="36" height="36"> **backend developer**. I work mainly with <img src="assets/js.png" alt="JavaScript logo" width="36" height="36"> and <img src="assets/csharp.png" alt="C# logo" width="36" height="40">.
+My name is Giancarlo Luz, and I am a <img src="assets/server.gif" alt="Server animation" width="36" height="36"> **backend developer**. I work mainly with <img src="assets/js-ts-logo.png" alt="JavaScript/TypeScript logo" width="72" height="36"> (JavaScript/TypeScript) and <img src="assets/csharp.png" alt="C# logo" width="36" height="40"> (C#).
 
 ## About me
 
-I am a Brazilian developer working with backend services, mainly APIs, simple tools and websites. Most of my repositories follows the **`start` &rarr; `end`** template, where I start a project with a clear end in sight, and I try to make it as simple as possible.
+I am a Brazilian developer working with backend services, mainly APIs, simple tools and websites. Most of my repositories follows the **`start` &rarr; `end`** (waterfall) approach, where I start a project with a clear end in sight, and I try to make it as simple as possible.
 
 Most of my work experience is with the [Azure](https://azure.microsoft.com/) cloud provider, with a bit of [DigitalOcean](https://www.digitalocean.com/) and [AWS](https://aws.amazon.com/) seasoning.
 
