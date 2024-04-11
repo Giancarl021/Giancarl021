@@ -26,11 +26,6 @@ Feel free to contact me on any of these platforms:
         </a>
     </td>
     <td>
-        <a href="https://twitter.com/FontelaLuz">
-            <img style="display: inline" src="assets/twitter.gif" alt="Twitter Logo" width="72" height="72"/>
-        </a>
-    </td>
-    <td>
         <a href="https://www.youtube.com/channel/UCTUYEhz02etnTVKvemFb-qw">
             <img style="display: inline" src="assets/youtube.gif" alt="Twitter Logo" width="72" height="72"/>
         </a>
