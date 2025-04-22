@@ -48,22 +48,22 @@ I have some [Microsoft Certifications](https://learn.microsoft.com/en-us/certifi
 <table align="center">
   <tr>
     <td>
-        <a href="https://www.credly.com/badges/0124df3a-6561-45c0-9b61-1de54e60c23c">
+        <a href="https://learn.microsoft.com/en-us/users/giancarl021/transcript/735l1c5lmr9o10y?tab=credentials-tab">
             <img style="display: inline-block; width: 128px; height: 128px" src="assets/az-900.png" alt="AZ-900 Badge" width="128" height="128"/>
         </a>
     </td>
     <td>
-        <a href="https://www.credly.com/badges/22a22ce4-6c6a-4fa7-96b8-fe95dbaebbd8">
+        <a href="https://learn.microsoft.com/en-us/users/giancarl021/transcript/735l1c5lmr9o10y?tab=credentials-tab">
             <img style="display: inline-block; witdh: 128px; height: 128px" src="assets/ai-900.png" alt="AI-900 Badge" width="128" height="128"/>
         </a>
     </td>
     <td>
-        <a href="https://www.credly.com/badges/c2d7ae3a-b1f2-4934-9222-7657cca6af48">
+        <a href="https://learn.microsoft.com/en-us/users/giancarl021/transcript/735l1c5lmr9o10y?tab=credentials-tab">
             <img style="display: inline" src="assets/az-203.png" alt="AZ-203 Badge" width="128" height="128"/>
         </a>
     </td>
     <td>
-        <a href="https://www.credly.com/badges/39232d33-205b-4920-bee4-996f7b27a3be">
+        <a href="https://learn.microsoft.com/en-us/users/giancarl021/transcript/735l1c5lmr9o10y?tab=credentials-tab">
             <img style="display: inline" src="assets/az-400.png" alt="AZ-400 Badge" width="128" height="128"/>
         </a>
     </td>
