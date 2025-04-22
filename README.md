@@ -1,10 +1,20 @@
 # Giancarlo Fontela da Luz
 
+<div id="cv-image">
+
 ![](assets/profile.png)
+
+</div>
+
+<div id="cv-bio">
+
+Born in 2002, thinks Ctrl + S will never be enough.
 
 ```bash
 awk '{ ward }'
 ```
+
+</div>
 
 ## Contact Me
 
